@@ -5,3 +5,7 @@ T
 $contracts/business-verification.clar,c/3/c30786642ae2a84c81ff5f2a28351450bc5efd29
 S
 #tests/business-verification.test.ts,c/5/c587612724a676f7289ee0cc0bab58b3b8bc5b6a
+S
+#contracts/funding-distribution.clar,c/2/c2d9296d2bf15a7de562a76337365eac641c2f8d
+R
+"tests/funding-distribution.test.ts,c/3/c30cf9e4200fce0e779ee99b57c30808022be8cb
